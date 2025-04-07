@@ -4,7 +4,7 @@ The **Image Search App** is a simple and interactive web application that allows
 
 ## Live Preview
 
-You can try the app live [here](#).
+You can try the app live [here](https://image-search-app-opal-zeta.vercel.app/).
 
 ## Features
 
